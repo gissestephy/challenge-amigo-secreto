@@ -8,7 +8,7 @@ El usuario deberá ingresar los nombres a tráves de un campo de texto y al pres
 
 - [ ] Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
-(insertar imagen)
+            <img src="assets/readme/AgregarNombres.jpg.png" alt="Imagen representativa de agregar nombres de amigos">
 
 - [ ] Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
