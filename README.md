@@ -12,15 +12,15 @@ El usuario deberá ingresar los nombres a tráves de un campo de texto y al pres
 
 - [ ] Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-![Validar entrada](assets/readme/AgregarNombres.jpg)
+![Validar entrada](assets/readme/ValidarEntrada.jpg)
 
 - [ ] Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-![Visualizar lista](assets/readme/AgregarNombres.jpg)
+![Visualizar lista](assets/readme/VisualizarLista.jpg)
 
 - [ ] Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
       
-![Sorteo Aleatorio](assets/readme/AgregarNombres.jpg)
+![Sorteo Aleatorio](assets/readme/SorteoAleatorio.jpg)
 
 ## Herramientas :hammer_and_wrench:
 + HTML - Para trabajar sobre la estructura y el diseño de la página.
