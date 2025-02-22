@@ -20,5 +20,5 @@ El usuario deberá ingresar los nombres a tráves de un campo de texto y al pres
 
 ## Herramientas
 + HTML - Para trabajar sobre la estructura y el diseño de la página.
-+ CSS - Para aplicarle estilos visuales.
++ CSS - Para aplicar estilos visuales.
 + JavaScript - Para manipular la lógica de la aplicación
