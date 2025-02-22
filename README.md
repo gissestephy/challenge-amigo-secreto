@@ -19,6 +19,6 @@ El usuario deberá ingresar los nombres a tráves de un campo de texto y al pres
 (insertar imagen)
 
 ## Herramientas
-+ HTML - Para la estructura y diseño de la página.
++ HTML - Para trabajar sobre la estructura y el diseño de la página.
 + CSS - Para aplicarle estilos visuales.
-+ JavaScript - Para la lógica de la aplicación
++ JavaScript - Para manipular la lógica de la aplicación
